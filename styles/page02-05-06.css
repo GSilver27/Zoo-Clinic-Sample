@@ -1,0 +1,14 @@
+main {
+    text-align: left;
+    margin: 0 auto;
+    width: 50%;
+}
+
+form {
+    padding-bottom: 1rem;
+}
+
+textarea {
+    min-height: 60px;
+    max-height: 300px;
+}

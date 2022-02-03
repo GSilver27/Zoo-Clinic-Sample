@@ -1,0 +1,10 @@
+tr, td{
+    text-align: center;
+    font-weight: bold;
+    height: 20px;
+    line-height: 20px;
+}
+
+tr td:first-of-type {
+    text-align: left;
+}
