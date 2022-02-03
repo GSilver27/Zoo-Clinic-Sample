@@ -2,4 +2,4 @@
 My first made sample site :)
 
 // TODO:
-// Make responsive version
+Make responsive version
